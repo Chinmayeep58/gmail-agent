@@ -1,0 +1,57 @@
+# Python bytecode
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Environment variables
+
+.env
+
+# Gmail OAuth credentials (VERY IMPORTANT)
+
+credentials.json
+token.pickle
+
+# Local database (optional if you don't want to track it)
+
+applications.json
+
+# Streamlit cache
+
+.streamlit/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE folders
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+
+*.tmp
+*.temp
