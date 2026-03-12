@@ -76,10 +76,7 @@ This design makes the system **simple, transparent, and cost-free to run**.
 
 ---
 
-## Quality of Recommendation (Feedback Loop)
-
-A key aspect of recommendation systems is **continuous improvement through feedback**.
-
+## Quality of Recommendation
 In this project, feedback is supported through:
 
 Manual application entries
